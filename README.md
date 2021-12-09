@@ -18,3 +18,6 @@ S'utilitzaren diferents models classificadors com el KNN, Random Forest, SVM...
 Afegir Taula amb resultats
 
 ## Conclusions
+
+## Desenvolupament
+El projecte s'ha realitzar utilizant PyCharm Community Edition 2021.2.2 i Google Colaboratory
